@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My appMD</string>
+    <string name="title_persona_detail">Persona Detail</string>
+
+    <string-array name="medicos">
+        <item>Dr. Uno</item>
+        <item>Dr. Dos</item>
+        <item>Dr. Tres</item>
+        <item>Dr. Cuatro</item>
+        <item>Dr. Cinco</item>
+    </string-array>
+
+    <string-array name="medicosMSJ">
+        <item>slogan del doctor Uno</item>
+        <item>slogan del doctor Dos</item>
+        <item>slogan del doctor Tres</item>
+        <item>slogan del doctor Cuatro</item>
+        <item>slogan del doctor Cinco</item>
+    </string-array>
+
+</resources>
